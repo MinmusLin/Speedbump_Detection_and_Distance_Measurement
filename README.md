@@ -18,6 +18,18 @@ Speedbump detection and distance measurement.
 * `/assets`
 存放 `README.md` 文件所需的相关图片资源
 
+* `/src`
+源代码
+
+* `AnnotatedVideo.avi`
+标注视频
+
+* `Presentation.pptx`
+汇报 PPT
+
+* `UndistortedVideo.avi`
+去畸变视频
+
 ## 项目展示
 
 ![](assets/Demonstration.png)
