@@ -16,7 +16,7 @@ Speedbump detection and distance measurement.
 
 ## 项目组成
 
-* [src](src)
+* [Source Code](src)
 源代码
 
 * [Annotated Video](AnnotatedVideo.avi)
