@@ -14,7 +14,7 @@ Speedbump detection and distance measurement.
 > ***Relevant course***
 > * Computer Vision 2024 (2024 年同济大学计算机视觉)
 
-## 项目组成
+## 仓库组成
 
 * [Source Code](src)
 源代码
